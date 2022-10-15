@@ -17,6 +17,8 @@ prerequisite :
 <br />
 3)clone this repo
 <br />
+change directory to nodejs
+<br />
 4)run docker build -t nodejs_with_external_call_to_api .
 <br />
 5)run docker run -p 3000:3000 nodejs_with_external_call_to_api
